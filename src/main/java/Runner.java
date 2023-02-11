@@ -23,5 +23,6 @@ public class Runner {
      */
     public void changeClassVar(String in){
 
-    }
+        Class classTest = new Class();
+classTest.global_var = in;   }
 }
